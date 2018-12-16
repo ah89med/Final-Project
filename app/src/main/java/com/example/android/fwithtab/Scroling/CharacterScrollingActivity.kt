@@ -85,7 +85,7 @@ class CharacterScrollingActivity : AppCompatActivity() {
 
             }
 
-
+// hellooooo that is meeeee ( Ahmed Aladdin )
     }
 }
 
